@@ -9,6 +9,12 @@ public class Main {
             System.out.println(i + " год является високосным");
         }
 
+        //задание 2
+
+        for (int i = 7; i <= 98; i += 7) {
+            System.out.println(i);
+        }
+
 
     }
 }
