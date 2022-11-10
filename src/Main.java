@@ -15,6 +15,12 @@ public class Main {
             System.out.println(i);
         }
 
+        //задание 3
+
+        for (int i = 1; i <= 512; i *= 2) {
+            System.out.println(i);
+        }
+
 
     }
 }
